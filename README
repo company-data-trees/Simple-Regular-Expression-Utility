@@ -1,0 +1,10 @@
+Put GetMetachingText.php and php.ini in a directory on your server (PHP must be enabled)
+
+1. Open the URL
+2. Enter the raw text in the text box above
+3. Enter your RegEx (Regular expression). Normal formatting = okay. Does not need to have special PHP formatting.
+3. Click the button to process your request.
+4. Your extracted text will appear on the bottom box.
+
+Any errors will be rendered by PHP's native error handling. There is no special error handling for this code.
+
